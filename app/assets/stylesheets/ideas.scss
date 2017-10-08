@@ -1,0 +1,27 @@
+// Place all the styles related to the ideas controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+	color: #291C6A;
+	font-weight: bold;
+	padding: 20px;
+	text-align:center;
+}
+
+#form {
+	margin: 0 auto;
+	width: 50%;
+	background-color: #F7E8FF;
+	border: 1px solid #FF64E6;
+	padding: 20px;
+}
+
+.field {
+	margin : 20px;
+
+	label{
+		width: 100px;
+	}
+}
+
